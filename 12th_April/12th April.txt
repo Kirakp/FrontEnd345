@@ -1,0 +1,15 @@
+01. what is button and button evaluation?
+Ans: Buttons allow users to take actions, and make choices, with a single tap. 
+Buttons communicate actions that users can take. They are typically placed throughout your website UI, and they should be easily findable and identifiable while clearly indicating the action they allow a user to complete.
+The value attribute specifies the initial value for a <button> in an HTML form.
+
+02. difference b/w button and button groups
+Ans: Button groups ( javax. swing. ButtonGroup ) are used in combination with radio buttons to ensure that only one radio button in a group of radio buttons is selected.
+Buttons allow users to take actions, and make choices, with a single tap. 
+Buttons communicate actions that users can take. They are typically placed throughout your website UI, and they should be easily findable and identifiable while clearly indicating the action they allow a user to complete.
+
+03. What is burger button?
+Ans: A hamburger button, named for its visual resemblance to the food item, is a type of button common on websites and applications, especially mobile environments. It is an icon that consists of three parallel horizontal lines, often rounded at the ends.
+
+04. What is noSQL?
+Ans: NoSQL databases (aka "not only SQL") are non-tabular databases and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
