@@ -1,0 +1,11 @@
+01. What is meta in source code of html?
+Ans: The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data. 
+<meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+
+02. What is internationalization in java?
+Ans: Internationalization is also abbreviated as I18N because there are total 18 characters between the first letter 'I' and the last letter 'N'.
+Internationalization is a mechanism to create such an application that can be adapted to different languages and regions.
+Internationalization is one of the powerful concept of java if you are developing an application and want to display messages, currencies, date, time etc. according to the specific region or language.
+
+03.what is material ui from google?
+Ans: Material-UI is simply a library that allows us to import and use different components to create a user interface in our React applications. This saves a significant amount of time since the developers do not need to write everything from scratch.
